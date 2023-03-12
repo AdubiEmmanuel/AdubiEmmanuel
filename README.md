@@ -15,7 +15,26 @@
 
 - 📫 How to reach me **emmanueladubi24@gmail.com**
 
-- 📄 Know about my experiences [Dear Hiring Manager, I am excited to submit my application for the Full-Stack Developer position at your company. With over 5 years of experience in building web applications using a variety of front-end and back-end technologies, I am confident in my ability to contribute to your team. My technical skills include proficiency in HTML, CSS, JavaScript (ES6), jQuery, Vue.js, React.js, Bootstrap, Material-UI, Figma, Photoshop, Illustrator, PHP (Laravel, CodeIgniter), Python (Django REST Framework), C# (ASP.NET MVC), MySQL, PostgreSQL, and Git, GitHub, Heroku, Vercel, and Netlify. I have also hosted Django REST Framework APIs on Heroku and Vercel, hosted React.js apps on Netlify and Vercel, and worked with teams of developers using Vue.js to build AreaExpress. I have a strong background in designing and developing modern and responsive user interfaces, building APIs, and working with databases. I am able to deliver high-quality products on-time and within budget. In my previous roles, I have mentored and trained individuals in full-stack development and technologies, taught HTML, CSS, JavaScript, and PHP to students looking to get into tech or change careers, and worked with clients to develop web applications using WordPress. I am a self-starter and able to work independently or as part of a team. I am passionate about learning new technologies and implementing them in my work. I am confident that my skills and experience make me an ideal candidate for this position. Thank you for considering my application. I look forward to the opportunity to discuss how I can contribute to your team. Sincerely, Emmanuel Adubi](Dear Hiring Manager, I am excited to submit my application for the Full-Stack Developer position at your company. With over 5 years of experience in building web applications using a variety of front-end and back-end technologies, I am confident in my ability to contribute to your team. My technical skills include proficiency in HTML, CSS, JavaScript (ES6), jQuery, Vue.js, React.js, Bootstrap, Material-UI, Figma, Photoshop, Illustrator, PHP (Laravel, CodeIgniter), Python (Django REST Framework), C# (ASP.NET MVC), MySQL, PostgreSQL, and Git, GitHub, Heroku, Vercel, and Netlify. I have also hosted Django REST Framework APIs on Heroku and Vercel, hosted React.js apps on Netlify and Vercel, and worked with teams of developers using Vue.js to build AreaExpress. I have a strong background in designing and developing modern and responsive user interfaces, building APIs, and working with databases. I am able to deliver high-quality products on-time and within budget. In my previous roles, I have mentored and trained individuals in full-stack development and technologies, taught HTML, CSS, JavaScript, and PHP to students looking to get into tech or change careers, and worked with clients to develop web applications using WordPress. I am a self-starter and able to work independently or as part of a team. I am passionate about learning new technologies and implementing them in my work. I am confident that my skills and experience make me an ideal candidate for this position. Thank you for considering my application. I look forward to the opportunity to discuss how I can contribute to your team. Sincerely, Emmanuel Adubi)
+- 📄 Know about my experiences [I am a skilled software developer with over 6 years of experience, specializing in Python, JavaScript, PHP, and C#. My preferred tech stack includes React for frontend development, and Django/Node + Express for backend development. I have a strong understanding of Git and GitHub, and have hosted projects on popular cloud platforms such as Heroku, Netlify, and Vercel.
+
+In addition to my technical skills, I enjoy teaching others about programming and sharing my knowledge through my YouTube channel, E-learn TechSkills.
+
+Skills
+Languages
+Python
+JavaScript
+PHP
+C#
+Frameworks/Libraries
+React
+Django
+Node.js
+Express
+Tools
+Git/GitHub
+Heroku
+Netlify
+Vercel)
 
 - ⚡ Fun fact **I love writing songs and playing musical instruments**
 
