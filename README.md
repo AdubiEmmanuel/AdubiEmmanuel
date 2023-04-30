@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [partycoo api](https://partycoo.netlify.app/)
 
-- 🌱 I’m currently learning **Advance React and Django**
+- 🌱 I’m currently learning **Advance React and Microservices in Django Rest Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdubiEmmanuel](https://github.com/AdubiEmmanuel)
 
