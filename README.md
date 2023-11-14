@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adubiemmanuel" alt="adubiemmanuel" /></a> </p>
 
-- 🔭 I’m currently working on [partycoo api](https://partycoo.netlify.app/)
+- 🔭 I’m currently working on [DEEBO](https://deebo-client.vercel.app/)
 
-- 🌱 I’m currently learning **Advance React and Microservices in Django Rest Framework**
+- 🌱 I’m currently learning **Microservices in Django Rest Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AdubiEmmanuel](https://github.com/AdubiEmmanuel)
 
-- 💬 Ask me about **React, Vue, Django**
+- 💬 Ask me about **React, Vue, Django and Laravel**
 
 - 📫 How to reach me **emmanueladubi24@gmail.com**
 
@@ -27,6 +27,7 @@ PHP
 C#
 Frameworks/Libraries
 React
+Laravel
 Django
 Node.js
 Express
