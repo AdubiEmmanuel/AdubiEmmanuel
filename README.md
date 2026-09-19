@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adubiemmanuel" alt="adubiemmanuel" /></a> </p>
 
-- 🔭 I’m currently working on [DEEBO](https://deebo-client.vercel.app/)
+- 🔭 I’m currently working on [PRAXISAXIOS](https://www.praxisaxom.org/)
 
 - 🌱 I’m currently learning **Microservices in Django Rest Framework**
 
