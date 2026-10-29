@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on [PRAXISAXIOS](https://www.praxisaxom.org/)
 
-- 🌱 I’m currently learning **Microservices in Django Rest Framework**
+- 🌱 I’m constantly learning **new Technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AdubiEmmanuel](https://github.com/AdubiEmmanuel)
-
-- 💬 Ask me about **React, Vue, Django and Laravel**
+- 👨‍💻 Some of my projects are available at [https://github.com/AdubiEmmanuel](https://github.com/AdubiEmmanuel)
 
 - 📫 How to reach me **emmanueladubi24@gmail.com**
 
