@@ -15,27 +15,19 @@
 
 - 📫 How to reach me **emmanueladubi24@gmail.com**
 
-- 📄 Know about my experiences [I am a skilled software developer with over 6 years of experience, specializing in Python, JavaScript, PHP, and C#. My preferred tech stack includes React for frontend development, and Django/Node + Express for backend development. I have a strong understanding of Git and GitHub, and have hosted projects on popular cloud platforms such as Heroku, Netlify, and Vercel.
+- 📄 Know about my experiences [I am a Lead AI Engineer with 13+ years of experience, building production agentic AI systems, SWE, LLM pipelines, NLP solutions, and MLOps infrastructure for media, financial services, energy, CPG, and retail sectors. Specialises in multi-agent orchestration, RAG architecture design, and LLMOps — from agent definition through evaluation harness and production monitoring. Currently delivering agentic AI automation for live event management platforms in the UK market.
 
-In addition to my technical skills, I enjoy teaching others about programming and sharing my knowledge through my YouTube channel, E-learn TechSkills.
+I enjoy teaching and sharing my software and technical knowledge.
 
-Skills
-Languages
-Python
-JavaScript
-PHP
-C#
-Frameworks/Libraries
-React
-Laravel
-Django
-Node.js
-Express
-Tools
-Git/GitHub
-Heroku
-Netlify
-Vercel)
+TECHNICAL SKILLS
+Cloud Platforms:	Microsoft Foundry, Azure (Azure OpenAI, Azure ML, AKS, Azure AI Search, Azure Functions, Key Vault), AWS (SageMaker, Bedrock, ECS Fargate, Cognito, CloudWatch, Redshift, EKS), GCP (Vertex AI, BigQuery)
+Programming:	Python · SQL · Bash · TypeScript
+Agentic AI & LLMs:	LangGraph · LangChain · LangSmith · Microsoft Foundry Agent Service · OpenAI Agents SDK · AutoGen · GPT-4o · Claude · GitHub Copilot
+RAG & Vector Search:	Azure AI Search · Pinecone · Weaviate · FAISS · RAGAS · BM25 · Guardrails AI · Hybrid Search · Embeddings
+ML & NLP:	scikit-learn, PyTorch, XGBoost, LightGBM, Hugging Face Transformers, BERT, RoBERTa, spaCy, NLTK, CatBoost
+MLOps & DevOps:	MLflow · Kubeflow · Docker · Kubernetes · Helm · GitHub Actions · Azure DevOps · Terraform · FastAPI · Evidently AI
+Data & Visualisation:	Pandas, NumPy, PySpark, dbt, Airflow, Tableau, Power BI, LLMOps, Model Evaluation, Feature Engineering, MCP, CI/CD, Agile, GDPR, Responsible AI
+
 
 - ⚡ Fun fact **I love writing songs and playing musical instruments**
 
